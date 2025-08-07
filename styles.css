@@ -50,7 +50,7 @@ img{
 opacity:0.5;
 }
 
-.categoria-videos img:houver{
+.categoria-videos img:hover{
     opacity:1.0;
     border:1px solid rgb(248, 142, 239);
 }
