@@ -54,3 +54,7 @@ opacity:0.5;
     opacity:1.0;
     border:1px solid rgb(248, 142, 239);
 }
+
+.categoria h2{
+    color:#f788bf(189, 109, 142);
+}
