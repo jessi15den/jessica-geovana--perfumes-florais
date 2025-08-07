@@ -1,5 +1,5 @@
 body {
-    color:  white;
+    color:  #f788bf;
     background:  black;
     margin: 0px;
 }
@@ -19,5 +19,5 @@ section{
 	justify-content: center
 }
 .chamada-texto {
-    margin-right: 5%;
+    margin-right: 10%;
 }
